@@ -1,4 +1,4 @@
-# 🥉 Three.js Tutorials
+# 🥉 Three.js Tutorials for building in the metaverse
 
 This repo contains the code for my Three.js tutorial series on YouTube. Each folder is self-contained and corresponds to a specific video. For example, the `04-dat-gui` folder contains the code for the 4th Three.js tutorial (Dat.GUI Setup Guide and Tutorial).
 
@@ -91,6 +91,8 @@ This repo (and tutorial series) aims to improve the learning experience for thos
 - [Lee Stemokoski's Three.js Examples](https://stemkoski.github.io/Three.js/index.html)
 
 ## Credits
+ https://github.com/SuboptimalEng/three-js-tutorials.git
+ https://github.com/silaslovescode/THREEjs-3d-programming
 
 ### 09-raycaster
 
