@@ -1,4 +1,5 @@
-# 🥉 Three.js Tutorials for building in the metaverse
+# ABC COMMUNITY REPO
+🥉 Three.js Tutorials for building in the metaverse . by silas to ABC community
 
 This repo contains the code for my Three.js tutorial series on YouTube. Each folder is self-contained and corresponds to a specific video. For example, the `04-dat-gui` folder contains the code for the 4th Three.js tutorial (Dat.GUI Setup Guide and Tutorial).
 
@@ -92,6 +93,7 @@ This repo (and tutorial series) aims to improve the learning experience for thos
 
 ## Credits
  https://github.com/SuboptimalEng/three-js-tutorials.git
+ ..........................................................
  https://github.com/silaslovescode/THREEjs-3d-programming
 
 ### 09-raycaster
